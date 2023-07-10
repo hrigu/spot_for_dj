@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    spot_for_dj (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  spot_for_dj!
+
+BUNDLED WITH
+   2.2.22
